@@ -8,7 +8,7 @@ By fine-tuning and comparing both DNNs using `PyTorch`, the project aims to prov
 ## Usage
 
 - Clone the repo
-- Original training dataset can be found and downloaded from [Kaggle](https://www.kaggle.com/datasets/andrewmvd/road-sign-detection)
+- Original training dataset can be found and downloaded from [Kaggle](https://www.kaggle.com/datasets/andrewmvd/road-sign-detection) into the `/src` folder
 - Install Python workspace using Conda: `conda env create -f environment.yml`
 - Activate Conda environment, then run the following Jupyter Notebooks:
   - `src/data_preprocessing.ipynb`
