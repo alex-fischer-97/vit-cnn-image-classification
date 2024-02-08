@@ -1,0 +1,18 @@
+name: rob_vision
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - torchaudio
+  - pytorch-nightly::pytorch
+  - torchvision
+  - matplotlib
+  - pandas
+  - opencv
+  - ipykernel
+  - scikit-learn
+pip:
+  - pytorch_pretrained_vit
+  - imagecorruptions
+prefix: /Users/alexander-fischer/miniconda3/envs/rob_vision
